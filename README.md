@@ -24,7 +24,7 @@
      ```bash
      git clone <repository-url>
      cd repository-name
-     # cd lab-git-practice-web-dev
+     # cd lab-git-practice-data-ai
      ```
 
 3. **Work on the Lab: Edit the Notebook**:
@@ -46,7 +46,7 @@
      ```
    - Commit the changes with a meaningful message:
      ```bash
-     git commit -m "Added my personal introduction to about-me.txt"
+     git commit -m "Added my personal introduction to about-me.ipynb"
      ```
 
 5. **Push Your Changes**:
